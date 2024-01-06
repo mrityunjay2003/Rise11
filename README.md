@@ -16,5 +16,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+
+
 ![full page](https://github.com/mrityunjay2003/Rise11/assets/77834210/21511be0-7398-4fc5-a9c4-57ecefb470aa)
         Here is the view of the page.
