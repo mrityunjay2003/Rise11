@@ -1,6 +1,6 @@
 # Admin Dashboard App
 
-Made using ReactJS
+Made using ReactJS <br/>
 For making charts ChartJS and ChartJS2 were used.
 
 ## Available Scripts
