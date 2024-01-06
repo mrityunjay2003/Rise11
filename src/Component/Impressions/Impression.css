@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.text-in-cont {
+    display: flex;
+    padding: 20px;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.para1{
+    margin-left: 50px;
+}

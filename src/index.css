@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.line-chart{
+  height: 250px;
+  width: 500px;
+}
+
+
+.level2{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.table {
+  position: absolute;
+  bottom: 0;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+}
+
+.donut{
+  height: 250px;
+  width: 250px;
+  margin-left: 270px;
+}
+
+.level3{
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.level4{
+  padding: 30px;
+  margin-left: 350px;
+  margin-right: 80px;
+  margin-top: 10px;
+  bottom: 0;
+  left: 0;
+}
+
+.level4>thead>tr>th{
+  background-color: rgb(211, 26, 26);
+}
